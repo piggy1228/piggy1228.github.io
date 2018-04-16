@@ -16,13 +16,13 @@ Education
 
 Work experience
 ======
-* Computer Vision Software Engineer, [<span class="underline-on-hover" style="color:#0000FF">Kulicke & Soffa</span>](https://www.kns.com/), May 2018 - Dec 2018
+* Computer Vision Software Engineer, [<span class="underline" style="color:#0000FF">Kulicke & Soffa</span>](https://www.kns.com/), May 2018 - Dec 2018
 
-* Research Assistant, Rensselaer Polytechnic Institute, May 2017 - Dec 2018
+* Research Assistant, Rensselaer Polytechnic Institute, May 2017 - Jan 2018
     * Duties included: Developing a web end for IBEIS
     * Supervisor: [Prof. Stewart](https://www.cs.rpi.edu/~stewart/)
 
-* Teaching Assistant, Rensselaer Polytechnic Institute, Jan 2017 - Dec 2018
+* Teaching Assistant, Rensselaer Polytechnic Institute, Jan 2017 - May 2018
     * Duties included: Mentoring Lab, Hold office hours
     * Courses:
         - [<span class="underline-on-hover" style="color:#0000FF">CSCI-1200 Data Structures</span>](http://www.cs.rpi.edu/academics/courses/fall17/csci1200/index.php) ([Prof. Cutler](http://www.cs.rpi.edu/~cutler/))
