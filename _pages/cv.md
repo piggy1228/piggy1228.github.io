@@ -11,18 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, <a href="https://science.rpi.edu/computer-science">Rensselaer Polytechnic Institute</a>, 2019(Expected)
+* B.S. in Computer Science, [<u>Rensselaer Polytechnic Institute</u>](https://science.rpi.edu/computer-science), 2019 (Expected)
     * GPA: 3.97/4.0
 
-Work experience
+Work Experience
 ======
-* Computer Vision Software Engineer, [<u>Kulicke & Soffa</u>](https://www.kns.com/), May 2018 - Dec 2018
+* __Computer Vision Software Engineer__, [<u>Kulicke & Soffa</u>](https://www.kns.com/), May 2018 - Dec 2018
 
-* Research Assistant, Rensselaer Polytechnic Institute, May 2017 - Jan 2018
+* __Research Assistant__, Rensselaer Polytechnic Institute, May 2017 - Jan 2018
     * Duties included: Developing a web end for IBEIS
     * Supervisor: [Prof. Stewart](https://www.cs.rpi.edu/~stewart/)
 
-* Teaching Assistant, Rensselaer Polytechnic Institute, Jan 2017 - May 2018
+* __Teaching Assistant__, Rensselaer Polytechnic Institute, Jan 2017 - May 2018
     * Duties included: Mentoring Lab, Hold office hours
     * Courses:
         - [<span class="underline-on-hover" style="color:#0000FF">CSCI-1200 Data Structures</span>](http://www.cs.rpi.edu/academics/courses/fall17/csci1200/index.php) ([Prof. Cutler](http://www.cs.rpi.edu/~cutler/))
