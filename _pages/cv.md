@@ -15,15 +15,16 @@ Education
 
 Work experience
 ======
-* Summer & Fall 2018: Computer Vision Software Engineer
+* May 2018 - Dec 2018: Computer Vision Software Engineer
   * Kulicke & Soffa
 
-* Spring 2017 - Fall 2018: Teaching Assistant
+* Jan 2017 - Dec 2018: Teaching Assistant
   * Rensselaer Polytechnic Institute
   * Duties included: Mentoring Lab, Hold office hours
-  * Supervisor: Professor Hub
+  * Courses: [CSCI 1200 Data Structures](http://www.cs.rpi.edu/academics/courses/fall17/csci1200/index.php), [CSCI 2200 Foundation of Computer Science](http://www.cs.rpi.edu/academics/courses/spring17/focs/), [CSCI 2300 Intro to Algorithm](http://www.cs.rpi.edu/~zaki/www-new/pmwiki.php/IntroAlgorithms/Main)
+  * Supervisor: [Prof. Cutler](http://www.cs.rpi.edu/~cutler/), [Prof. Trinkle](http://www.cs.rpi.edu/~trink/), [Prof. Zaki](http://www.cs.rpi.edu/~zaki/www-new/pmwiki.php/Main/HomePage)
 
-* Spring 2017 - Fall 2018: Teaching Assistant
+* Spring 2017 - Fall 2018: Research Assistant
   * Rensselaer Polytechnic Institute
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
