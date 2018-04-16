@@ -11,22 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Computer Science, Rensselaer Polytechnic Institute, 2019(Expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer & Fall 2018: Computer Vision Software Engineer
+  * Kulicke & Soffa
 
-* Fall 2015: Research Assistant
-  * Github University
+* Spring 2017 - Fall 2018: Teaching Assistant
+  * Rensselaer Polytechnic Institute
+  * Duties included: Mentoring Lab, Hold office hours
+  * Supervisor: Professor Hub
+
+* Spring 2017 - Fall 2018: Teaching Assistant
+  * Rensselaer Polytechnic Institute
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
+
 Skills
 ======
 * Skill 1
@@ -41,19 +42,19 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
