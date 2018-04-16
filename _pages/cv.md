@@ -16,15 +16,15 @@ Education
 Work experience
 ======
 * May 2018 - Dec 2018: Computer Vision Software Engineer
-  * Kulicke & Soffa
+  * [<span class="underline-on-hover" style="color:#0000FF">Kulicke & Soffa</span>](www.kns.com)
 
 * Jan 2017 - Dec 2018: Teaching Assistant
   * Rensselaer Polytechnic Institute
   * Duties included: Mentoring Lab, Hold office hours
   * Courses:
-    +[<span class="underline-on-hover" style="color:#0000FF">CSCI1200 Data Structures</span>](http://www.cs.rpi.edu/academics/courses/fall17/csci1200/index.php)
-    +[<span class="underline-on-hover" style="color:#0000FF">CSCI2200 Foundation of CS</span>](http://www.cs.rpi.edu/academics/courses/spring17/focs/)
-    +[<span class="underline-on-hover" style="color:#0000FF">CSCI2300 Intro to Algorithm</span>](http://www.cs.rpi.edu/~zaki/www-new/pmwiki.php/IntroAlgorithms/Main)
+      +[<span class="underline-on-hover" style="color:#0000FF">CSCI1200 Data Structures</span>](http://www.cs.rpi.edu/academics/courses/fall17/csci1200/index.php)
+      +[<span class="underline-on-hover" style="color:#0000FF">CSCI2200 Foundation of CS</span>](http://www.cs.rpi.edu/academics/courses/spring17/focs/)
+      +[<span class="underline-on-hover" style="color:#0000FF">CSCI2300 Intro to Algorithm</span>](http://www.cs.rpi.edu/~zaki/www-new/pmwiki.php/IntroAlgorithms/Main)
   * Supervisor: [Prof. Cutler](http://www.cs.rpi.edu/~cutler/), [Prof. Trinkle](http://www.cs.rpi.edu/~trink/), [Prof. Zaki](http://www.cs.rpi.edu/~zaki/www-new/pmwiki.php/Main/HomePage)
 
 * May 2017 - Jan 2018: Research Assistant
