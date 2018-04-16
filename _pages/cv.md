@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science, <a href="https://science.rpi.edu/computer-science">Rensselaer Polytechnic Institute</a>, 2019(Expected)
+    * GPA: 3.97/4.0
 
 Work experience
 ======
@@ -22,15 +23,14 @@ Work experience
     * Rensselaer Polytechnic Institute
     * Duties included: Mentoring Lab, Hold office hours
     * Courses:
-        - [<span class="underline-on-hover" style="color:#0000FF">CSCI1200 Data Structures</span>](http://www.cs.rpi.edu/academics/courses/fall17/csci1200/index.php)
-        - [<span class="underline-on-hover" style="color:#0000FF">CSCI2200 Foundation of CS</span>](http://www.cs.rpi.edu/academics/courses/spring17/focs/)
-        - [<span class="underline-on-hover" style="color:#0000FF">CSCI2300 Intro to Algorithm</span>](http://www.cs.rpi.edu/~zaki/www-new/pmwiki.php/IntroAlgorithms/Main)
-    * Supervisor: [Prof. Cutler](http://www.cs.rpi.edu/~cutler/), [Prof. Trinkle](http://www.cs.rpi.edu/~trink/), [Prof. Zaki](http://www.cs.rpi.edu/~zaki/www-new/pmwiki.php/Main/HomePage)
+        - [<span class="underline-on-hover" style="color:#0000FF">CSCI1200 Data Structures</span>](http://www.cs.rpi.edu/academics/courses/fall17/csci1200/index.php)([Prof. Cutler](http://www.cs.rpi.edu/~cutler/))
+        - [<span class="underline-on-hover" style="color:#0000FF">CSCI2200 Foundation of CS</span>](http://www.cs.rpi.edu/academics/courses/spring17/focs/)([Prof. Trinkle](http://www.cs.rpi.edu/~trink/))
+        - [<span class="underline-on-hover" style="color:#0000FF">CSCI2300 Intro to Algorithm</span>](http://www.cs.rpi.edu/~zaki/www-new/pmwiki.php/IntroAlgorithms/Main)([Prof. Zaki](http://www.cs.rpi.edu/~zaki/www-new/pmwiki.php/Main/HomePage))
 
 * May 2017 - Jan 2018: Research Assistant
     * Rensselaer Polytechnic Institute
-    * Duties included: Merging pull requests
-    * Supervisor: Professor Hub
+    * Duties included: Developing a web end for IBEIS
+    * Supervisor: [Prof. Stewart](https://www.cs.rpi.edu/~stewart/)
 
 Skills
 ======
