@@ -82,7 +82,7 @@ author:
   avatar           : "profile.jpg"
   bio              : "A CS student at RPI"
   location         : "Troy, NY"
-  employer         :
+  employer         : "Kulicke & Soffa"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "ryanzhlhan@gmail.com"
   uri              :
@@ -97,8 +97,8 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/userhan/"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
