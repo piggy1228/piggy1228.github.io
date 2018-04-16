@@ -26,8 +26,8 @@ Work Experience
     * Duties included: Mentoring Lab, Hold office hours
     * Courses:
         - [<span class="underline-on-hover" style="color:#0000FF">CSCI-1200 Data Structures</span>](http://www.cs.rpi.edu/academics/courses/fall17/csci1200/index.php) ([Prof. Cutler](http://www.cs.rpi.edu/~cutler/))
-        - [<span class="underline-on-hover" style="color:#0000FF">CSCI-2200 Foundation of CS</span>](http://www.cs.rpi.edu/academics/courses/spring17/focs/) ([Prof. Trinkle](http://www.cs.rpi.edu/~trink/))
-        - [<span class="underline-on-hover" style="color:#0000FF">CSCI-2300 Intro to Algorithm</span>](http://www.cs.rpi.edu/~zaki/www-new/pmwiki.php/IntroAlgorithms/Main) ([Prof. Zaki](http://www.cs.rpi.edu/~zaki/www-new/pmwiki.php/Main/HomePage))
+        - [<span class="underline-on-hover" style="color:#0000FF">CSCI-2200 Foundation of Computer Science</span>](http://www.cs.rpi.edu/academics/courses/spring17/focs/) ([Prof. Trinkle](http://www.cs.rpi.edu/~trink/))
+        - [<span class="underline-on-hover" style="color:#0000FF">CSCI-2300 Introduction to Algorithm</span>](http://www.cs.rpi.edu/~zaki/www-new/pmwiki.php/IntroAlgorithms/Main) ([Prof. Zaki](http://www.cs.rpi.edu/~zaki/www-new/pmwiki.php/Main/HomePage))
 
 
 
