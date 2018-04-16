@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Computer Vision Software Engineer, [__Kulicke & Soffa__](https://www.kns.com/), May 2018 - Dec 2018
+* Computer Vision Software Engineer, [<u>Kulicke & Soffa</u>](https://www.kns.com/), May 2018 - Dec 2018
 
 * Research Assistant, Rensselaer Polytechnic Institute, May 2017 - Jan 2018
     * Duties included: Developing a web end for IBEIS
