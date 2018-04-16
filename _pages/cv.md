@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, Rensselaer Polytechnic Institute, 2019(Expected)
+* B.S. in Computer Science, <a href="https://science.rpi.edu/computer-science">Rensselaer Polytechnic Institute</a>, 2019(Expected)
 
 Work experience
 ======
@@ -21,10 +21,10 @@ Work experience
 * Jan 2017 - Dec 2018: Teaching Assistant
   * Rensselaer Polytechnic Institute
   * Duties included: Mentoring Lab, Hold office hours
-  * Courses: [CSCI 1200 Data Structures](http://www.cs.rpi.edu/academics/courses/fall17/csci1200/index.php), [CSCI 2200 Foundation of Computer Science](http://www.cs.rpi.edu/academics/courses/spring17/focs/), [CSCI 2300 Intro to Algorithm](http://www.cs.rpi.edu/~zaki/www-new/pmwiki.php/IntroAlgorithms/Main)
+  * Courses: [<span class="underline-on-hover" style="color:#0000FF">CSCI1200 Data Structures</span>](http://www.cs.rpi.edu/academics/courses/fall17/csci1200/index.php), [*CSCI2200 Foundation of Computer Science*](http://www.cs.rpi.edu/academics/courses/spring17/focs/), [CSCI2300 Intro to Algorithm](http://www.cs.rpi.edu/~zaki/www-new/pmwiki.php/IntroAlgorithms/Main)
   * Supervisor: [Prof. Cutler](http://www.cs.rpi.edu/~cutler/), [Prof. Trinkle](http://www.cs.rpi.edu/~trink/), [Prof. Zaki](http://www.cs.rpi.edu/~zaki/www-new/pmwiki.php/Main/HomePage)
 
-* Spring 2017 - Fall 2018: Research Assistant
+* May 2017 - Jan 2018: Research Assistant
   * Rensselaer Polytechnic Institute
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
