@@ -16,29 +16,29 @@ Education
 Work experience
 ======
 * May 2018 - Dec 2018: Computer Vision Software Engineer
-  * [<span class="underline-on-hover" style="color:#0000FF">Kulicke & Soffa</span>](www.kns.com)
+    * [<span class="underline-on-hover" style="color:#0000FF">Kulicke & Soffa</span>](https://www.kns.com/)
 
 * Jan 2017 - Dec 2018: Teaching Assistant
-  * Rensselaer Polytechnic Institute
-  * Duties included: Mentoring Lab, Hold office hours
-  * Courses:
-      +[<span class="underline-on-hover" style="color:#0000FF">CSCI1200 Data Structures</span>](http://www.cs.rpi.edu/academics/courses/fall17/csci1200/index.php)
-      +[<span class="underline-on-hover" style="color:#0000FF">CSCI2200 Foundation of CS</span>](http://www.cs.rpi.edu/academics/courses/spring17/focs/)
-      +[<span class="underline-on-hover" style="color:#0000FF">CSCI2300 Intro to Algorithm</span>](http://www.cs.rpi.edu/~zaki/www-new/pmwiki.php/IntroAlgorithms/Main)
-  * Supervisor: [Prof. Cutler](http://www.cs.rpi.edu/~cutler/), [Prof. Trinkle](http://www.cs.rpi.edu/~trink/), [Prof. Zaki](http://www.cs.rpi.edu/~zaki/www-new/pmwiki.php/Main/HomePage)
+    * Rensselaer Polytechnic Institute
+    * Duties included: Mentoring Lab, Hold office hours
+    * Courses:
+        -[<span class="underline-on-hover" style="color:#0000FF">CSCI1200 Data Structures</span>](http://www.cs.rpi.edu/academics/courses/fall17/csci1200/index.php)
+        -[<span class="underline-on-hover" style="color:#0000FF">CSCI2200 Foundation of CS</span>](http://www.cs.rpi.edu/academics/courses/spring17/focs/)
+        -[<span class="underline-on-hover" style="color:#0000FF">CSCI2300 Intro to Algorithm</span>](http://www.cs.rpi.edu/~zaki/www-new/pmwiki.php/IntroAlgorithms/Main)
+    * Supervisor: [Prof. Cutler](http://www.cs.rpi.edu/~cutler/), [Prof. Trinkle](http://www.cs.rpi.edu/~trink/), [Prof. Zaki](http://www.cs.rpi.edu/~zaki/www-new/pmwiki.php/Main/HomePage)
 
 * May 2017 - Jan 2018: Research Assistant
-  * Rensselaer Polytechnic Institute
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+    * Rensselaer Polytechnic Institute
+    * Duties included: Merging pull requests
+    * Supervisor: Professor Hub
 
 Skills
 ======
 * Skill 1
 * Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+    * Sub-skill 2.1
+    * Sub-skill 2.2
+    * Sub-skill 2.3
 * Skill 3
 
 Publications
