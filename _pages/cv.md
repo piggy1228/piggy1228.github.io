@@ -33,13 +33,10 @@ Work Experience
 
 Skills
 ======
-* Skill 1
-* Skill 2
-    * Sub-skill 2.1
-    * Sub-skill 2.2
-    * Sub-skill 2.3
-* Skill 3
+* Programming Languages: C++, C, C#, Python, Java, Javascript, Haskell
+* Tools: OpenCV, AngularJS, PyTorch
 
+<!--
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -52,6 +49,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
@@ -61,3 +59,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
