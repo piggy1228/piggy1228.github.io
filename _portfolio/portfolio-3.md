@@ -1,6 +1,6 @@
 ---
 title: "Segmentation Cutting"
-excerpt: "Grub cutting result for a cat<br/><img src='/images/project3_1.png'>"
+excerpt: "Grub cutting and Segmentation sample results<br/><img src='/images/project3_1.png'>"
 collection: project
 ---
 <!--
