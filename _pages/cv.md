@@ -14,7 +14,7 @@ Education
 * B.S. in Computer Science, [<u>Rensselaer Polytechnic Institute</u>](https://science.rpi.edu/computer-science), 2019 (Expected)
     * GPA: 3.97/4.0
 
-Work Experience
+Experience
 ======
 * __Computer Vision Software Engineer__, [<u>Kulicke & Soffa</u>](https://www.kns.com/), May 2018 - Dec 2018
 
@@ -30,11 +30,19 @@ Work Experience
         - [<span class="underline-on-hover" style="color:#0000FF">CSCI-2300 Introduction to Algorithm</span>](http://www.cs.rpi.edu/~zaki/www-new/pmwiki.php/IntroAlgorithms/Main) ([Prof. Zaki](http://www.cs.rpi.edu/~zaki/www-new/pmwiki.php/Main/HomePage))
 
 
+Projects
+=====
+<ul>{% for post in site.portfolio %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
 
 Skills
 ======
 * Programming Languages: C++, C, C#, Python, Java, Javascript, Haskell
 * Tools: OpenCV, AngularJS, PyTorch
+
+
 
 <!--
 Publications
