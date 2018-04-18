@@ -1,6 +1,6 @@
 ---
 title: "Auto Panorama Generator (based on SIFT algorithm)"
-excerpt: "Key points matching and final stitching result for 2 office pictures<br/><img src='/images/project1.png' width="50%" height="50%">"
+excerpt: "Key points matching and final stitching result for 2 office pictures<br/><img src='/images/project1.png'>"
 collection: portfolio
 ---
 
