@@ -39,7 +39,7 @@ Projects
 
 Skills
 ======
-* Programming Languages: C++, C, C#, Python, Java, Javascript, Haskell
+* Programming Languages: C++, C#, C, Python, Java, Javascript, Haskell
 * Tools: OpenCV, AngularJS, PyTorch
 
 
