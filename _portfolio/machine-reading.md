@@ -1,6 +1,6 @@
 ---
 title: "Machine Comprehension"
-excerpt: "<br/><img src='/images/project3_1.png'>"
+excerpt: "<br/>"
 collection: project
 description: "Analysis a given story and automatically answer questions based on the story"
 ---
