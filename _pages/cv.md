@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science, [<u>Rensselaer Polytechnic Institute</u>](https://science.rpi.edu/computer-science), May 2019
-    * GPA: 3.97/4.0
+    * GPA: 3.98/4.0
 
 Experience
 ======
