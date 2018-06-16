@@ -17,6 +17,8 @@ Education
 Experience
 ======
 * __Computer Vision Software Engineer__, [<u>Kulicke & Soffa</u>](https://www.kns.com/), May 2018 - Dec 2018
+    * Design and integrate an automatic LED comparison tool into an optics test application based on MFC, cost ~80% less time than original operations
+    * Reimplement an MFC based Client - Bonder Equipment communicator to make it work cross-platform. (Ongoing)
 
 * __Research Assistant__, [<u>Rensselaer Polytechnic Institute</u>](https://science.rpi.edu/computer-science), May 2017 - Jan 2018
     * Duties included: Developing a web end for IBEIS

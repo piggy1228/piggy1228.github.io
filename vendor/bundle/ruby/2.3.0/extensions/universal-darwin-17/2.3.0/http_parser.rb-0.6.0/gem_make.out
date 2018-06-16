@@ -1,0 +1,14 @@
+current directory: /Users/hanzhilin/Google Drive/personalSite/zhlnhn.github.io/vendor/bundle/ruby/2.3.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+/System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/bin/ruby -r ./siteconf20180615-2490-1xezr06.rb extconf.rb
+creating Makefile
+
+current directory: /Users/hanzhilin/Google Drive/personalSite/zhlnhn.github.io/vendor/bundle/ruby/2.3.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" clean
+
+current directory: /Users/hanzhilin/Google Drive/personalSite/zhlnhn.github.io/vendor/bundle/ruby/2.3.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR="
+compiling ryah_http_parser.c
+clang: error: no such file or directory: 'Drive/personalSite/zhlnhn.github.io/vendor/bundle/ruby/2.3.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser'
+make: *** [ryah_http_parser.o] Error 1
+
+make failed, exit code 2
