@@ -4,32 +4,25 @@ title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /cv
 ---
 
 {% include base_path %}
 
 Education
 ======
-* B.S. in Computer Science, [<u>Rensselaer Polytechnic Institute</u>](https://science.rpi.edu/computer-science), May 2019
-    * GPA: 3.98/4.0
+* M.S.E in Computer& information Science, [<u>University of Pennsylvania</u>](http://www.cis.upenn.edu/index.php), May 2020
+    * GPA: 3.53/4.0
 
-Experience
+* B.S. in Computer Science, [<u>Rensselaer Polytechnic Institute</u>](https://science.rpi.edu/computer-science), May 2018
+    * GPA: 3.97/4.0
+
+
+Coursework/Skills
 ======
-* __Computer Vision Software Engineer__, [<u>Kulicke & Soffa</u>](https://www.kns.com/), May 2018 - Dec 2018
-    * Design and integrate an automatic LED comparison tool into an optics test application based on MFC, cost ~80% less time than original operations
-    * Reimplement an MFC based Client - Bonder Equipment communicator to make it work cross-platform. (Ongoing)
-
-* __Research Assistant__, [<u>Rensselaer Polytechnic Institute</u>](https://science.rpi.edu/computer-science), May 2017 - Jan 2018
-    * Duties included: Developing a web end for IBEIS
-    * Supervisor: [Prof. Stewart](https://www.cs.rpi.edu/~stewart/)
-
-* __Teaching Assistant__, [<u>Rensselaer Polytechnic Institute</u>](https://science.rpi.edu/computer-science), Jan 2017 - May 2018
-    * Duties included: Mentoring Lab, Hold office hours
-    * Courses:
-        - [<span class="underline-on-hover" style="color:#0000FF">CSCI-1200 Data Structures</span>](http://www.cs.rpi.edu/academics/courses/fall17/csci1200/index.php) ([Prof. Cutler](http://www.cs.rpi.edu/~cutler/))
-        - [<span class="underline-on-hover" style="color:#0000FF">CSCI-2200 Foundation of Computer Science</span>](http://www.cs.rpi.edu/academics/courses/spring17/focs/) ([Prof. Trinkle](http://www.cs.rpi.edu/~trink/))
-        - [<span class="underline-on-hover" style="color:#0000FF">CSCI-2300 Introduction to Algorithm</span>](http://www.cs.rpi.edu/~zaki/www-new/pmwiki.php/IntroAlgorithms/Main) ([Prof. Zaki](http://www.cs.rpi.edu/~zaki/www-new/pmwiki.php/Main/HomePage))
+* Advanced Mathematics& Statistics: Linear Algebra, Mathematical Statistics, Mathematical Models of Operation Research, Computational Optimization
+* Advanced Computer Science: Software Systems, Database & Info Systems, Big Data Analyt- ics, Operating System, Machine Learning, Intro to Artificial Intelligence , Programming Language, Natural Language Processing
+* Programming Languages: Proficient in Python,C++/C, Sql, MongoDB, Neo4j, Matlab, R, Java, Prolog, Haskell
 
 
 Projects
@@ -39,10 +32,26 @@ Projects
 {% endfor %}</ul>
 
 
-Skills
+Research
 ======
-* Programming Languages: C++, C#, C, Python, Java, Javascript, Haskell
-* Tools: OpenCV, AngularJS, PyTorch
+* __Iris Recognition (Python)__, [<u>Duke Kunshan University</u>](https://dukekunshan.edu.cn/zh), July 2018 - Aug 2018
+    * Given an eye image, extracted the iris section and compared with original iris data to verify user identity
+    * Used traditional computer vision method to recognize and capture the Iris from eye images
+    * Removed noises, such as reflection in pupils and glasses by distinguishing relative pixel color
+
+* __Circadian Rhythms (R)__, [<u>Rensselaer Polytechnic Institute</u>](https://science.rpi.edu/computer-science), June 2017 - Aug 2017
+    * Analyzed three mouse genes' performance in forty-eight hours under control experiment
+    * Wrote a bootstrapping R program to observe the same parameter properties of the three mice
+    * Obtained the sampling distribution and confidence interval to analyze the circadian rhythms of mice
+
+Professional Experience
+======
+* __Teaching Assistant__, [<u>Rensselaer Polytechnic Institute</u>](https://science.rpi.edu/computer-science), Jan 2017 - May 2018
+    * Duties included: Mentoring Lab, Hold office hours and grading
+    * Courses:
+        - [<span class="underline-on-hover" style="color:#0000FF">CSCI-2200 Foundation of Computer Science</span>](http://www.cs.rpi.edu/academics/courses/spring17/focs/) ([Prof. Trinkle](http://www.cs.rpi.edu/~trink/))
+        - [<span class="underline-on-hover" style="color:#0000FF">CSCI-2300 Introduction to Algorithm</span>](http://www.cs.rpi.edu/~zaki/www-new/pmwiki.php/IntroAlgorithms/Main) ([Prof. Zaki](http://www.cs.rpi.edu/~zaki/www-new/pmwiki.php/Main/HomePage))
+        - [<span class="underline-on-hover" style="color:#0000FF">MATP-4620 Mathemtical Statistics</span>](https://www.coursehero.com/file/16237124/Course-Intro/) ([Prof. Chan](https://scholar.google.com/citations?user=tmYLtDgAAAAJ&hl=en))
 
 
 
