@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+PDF version available [<u>here</u>](files/CV_Kexin.pdf)
 Education
 ======
 * M.S.E in Computer& information Science, [<u>University of Pennsylvania</u>](http://www.cis.upenn.edu/index.php), May 2020
@@ -21,7 +21,7 @@ Education
 Coursework/Skills
 ======
 * Advanced Mathematics& Statistics: Linear Algebra, Mathematical Statistics, Mathematical Models of Operation Research, Computational Optimization
-* Advanced Computer Science: Software Systems, Database & Info Systems, Big Data Analyt- ics, Operating System, Machine Learning, Intro to Artificial Intelligence , Programming Language, Natural Language Processing
+* Advanced Computer Science: Software Systems, Database & Info Systems, Big Data Analytics, Operating System, Machine Learning, Intro to Artificial Intelligence , Programming Language, Natural Language Processing
 * Programming Languages: Proficient in Python,C++/C, Sql, MongoDB, Neo4j, Matlab, R, Java, Prolog, Haskell
 
 
