@@ -12,11 +12,13 @@ PDF version available [<u>here</u>](https://piggy1228.github.io/files/CV_Kexin.p
 
 Education
 ======
-* M.S.E in Computer& information Science, [<u>University of Pennsylvania</u>](http://www.cis.upenn.edu/index.php), May 2020
+* [<u>University of Pennsylvania</u>](http://www.cis.upenn.edu/index.php), May 2020
+    * Master of Science in Engineering: Computer & Information Science
     * GPA: 3.53/4.0
 
-* B.S. in Computer Science and B.S. in Mathematics, [<u>Rensselaer Polytechnic Institute</u>](https://science.rpi.edu/computer-science), May 2018
-    * GPA: 3.97/4.0
+* [<u>Rensselaer Polytechnic Institute</u>](https://science.rpi.edu/computer-science), May 2018
+    * Bachelor of Science: Computer Science dual Mathematics
+    * GPA: 3.97/4.0 (Summa Cum laude)
 
 
 Coursework/Skills
