@@ -4,8 +4,9 @@ excerpt: "A webpage which recommends Airbnb homes in NYC to users based on their
 collection: project
 description: "A webpage which recommends Airbnb homes in NYC to users based on their food preference and food options in the neighborhoods"
 
-project report are available [<u>here</u>](https://piggy1228.github.io/files/FoodForThought.pdf)
+
 ---
+Project report are available [<u>here</u>](https://piggy1228.github.io/files/FoodForThought.pdf)
 * Developed a webpage which recommends Airbnb homes in NYC to users based on their food preference and food options in the neighborhoods, with data from Airbnb and Yelp, stored on
 cloud hosting (AWS)
 * Users are able to customize their home preferences, including price range and choice of neighbor-
