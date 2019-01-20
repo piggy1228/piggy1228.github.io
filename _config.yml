@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhilin Han"
+title                    : "Kexin Zhu"
 title_separator          : "-"
-name                     : &name "Zhilin Han"
-description              : &description "CS Undergrad at RPI"
+name                     : &name "Kexin Zhu"
+description              : &description "CS Master at Upenn"
 url                      : https://piggy1228.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "piggy1228/piggy1228.github.io"
@@ -78,27 +78,27 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhilin Han"
-  avatar           : "profile.png"
-  bio              : "Senior CS student at RPI. Looking for a SDE internship in summer 2019."
-  location         : "Troy, NY"
-  employer         : "Kulicke & Soffa"
-  employerUrl      : "https://www.kns.com"
+  name             : "Kexin Zhu"
+  avatar           : "profile.JPG"
+  bio              : "Master CIS student at Upenn. Actively looking for a SDE internship in summer 2019 and full time job in 2020."
+  location         : "Philadephia, PA"
+  employer         :
+  employerUrl      :
   googlescholar    :
-  email            : "ryanzhlhan@gmail.com"
+  email            : "zhukexin951228@gmail.com"
   uri              :
-  bitbucket        :
+  bitbucket        : "zhukexin"
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zhlnhn"
+  github           : "piggy1228"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "zhukexin1228"
   lastfm           :
-  linkedin         : "userhan"
+  linkedin         : "kexin-zhu-7a434a103"
   orcid            :
   pinterest        :
   soundcloud       :
