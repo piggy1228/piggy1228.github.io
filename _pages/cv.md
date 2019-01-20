@@ -6,15 +6,16 @@ author_profile: true
 redirect_from:
   - /cv
 ---
-
+PDF version available [<u>here</u>](https://piggy1228.github.io/files/CV_Kexin.pdf)
 {% include base_path %}
-PDF version available [<u>here</u>](files/CV_Kexin.pdf)
+
+
 Education
 ======
 * M.S.E in Computer& information Science, [<u>University of Pennsylvania</u>](http://www.cis.upenn.edu/index.php), May 2020
     * GPA: 3.53/4.0
 
-* B.S. in Computer Science, [<u>Rensselaer Polytechnic Institute</u>](https://science.rpi.edu/computer-science), May 2018
+* B.S. in Computer Science and B.S. in Mathematics, [<u>Rensselaer Polytechnic Institute</u>](https://science.rpi.edu/computer-science), May 2018
     * GPA: 3.97/4.0
 
 
