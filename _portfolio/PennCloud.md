@@ -1,6 +1,6 @@
 ---
 title: "PennCloud (C/C++)"
-excerpt: "A cloud platform with its webmail and storage service<br/><img src='/images/project1.1.png'>"
+excerpt: "A cloud platform with its webmail and storage service <br/><img src='/images/project1.1.png'>"
 collection: project
 description: "A cloud platform with its webmail and storage service, analogous to Gmail and Google Drive\"."
 ---
