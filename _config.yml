@@ -80,14 +80,14 @@ analytics:
 author:
   name             : "Kexin Zhu"
   avatar           : "profile.JPG"
-  bio              : "Master CIS student at Upenn. Actively looking for a SDE internship in summer 2019"
+  bio              : "CIS master student at Upenn. Actively looking for a SDE internship in summer 2019"
   location         : "Philadephia, PA"
   employer         : #name
   employerUrl      : #url
   googlescholar    :
   email            : "zhukexin951228@gmail.com"
   uri              :
-  bitbucket        : "zhukexin"
+  bitbucket        : #"zhukexin"
   codepen          :
   dribbble         :
   flickr           :
