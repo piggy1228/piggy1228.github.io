@@ -50,12 +50,12 @@ Research
 Professional Experience
 ======
 * __Software engineering Intern__, [<u>Twitch</u>](https://www.twitch.tv/), San Francisco, Jun 2019 - Aug 2019
- * Video Transcoder Team(Golang), software engineering Intern
-  * Parsed closed captions from live streaming video to text format and sent to viewers through WebRTC on server
-side, received and displayed closed captions with video on client side
-  * Triggered chrome to send transport feedback by adding extension header in RTP packet, parsed transport feedback
-from RTCP packet in WebRTC
-  * Implemented congestion control algorithm, analyzed feedback of RTT, REMB and Packet loss from browser to
+* Video Transcoder Team(Golang), software engineering Intern
+    * Parsed closed captions from live streaming video to text format and sent to viewers through WebRTC on server
+    side, received and displayed closed captions with video on client side
+    * Triggered chrome to send transport feedback by adding extension header in RTP packet, parsed transport feedback
+    from RTCP packet in WebRTC
+    * Implemented congestion control algorithm, analyzed feedback of RTT, REMB and Packet loss from browser to
 estimate the bandwidth in order to automatically switch renditions for viewers
 
 
