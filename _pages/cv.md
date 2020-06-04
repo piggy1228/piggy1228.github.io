@@ -24,8 +24,8 @@ Education
 Coursework/Skills
 ======
 * Advanced Mathematics& Statistics: Linear Algebra, Mathematical Statistics, Mathematical Models of Operation Research, Computational Optimization
-* Advanced Computer Science: Software Systems, Database & Info Systems, Big Data Analytics, Operating System, Machine Learning, Intro to Artificial Intelligence , Programming Language, Natural Language Processing
-* Programming Languages: Proficient in Python,C++/C, Sql, MongoDB, Neo4j, Matlab, R, Java, Prolog, Haskell
+* Advanced Computer Science: Software Systems, OS design and implement, Networked Systems, Database & Info Systems, Big Data Analytics, Mordern data mining, Operating System, Machine Learning, Intro to Artificial Intelligence , Programming Language, Natural Language Processing, Programming for the web
+* Programming Languages: Proficient in C++/C, Python, Golang, Sql, MongoDB, Neo4j, Matlab, R, Java, Prolog, Haskell
 
 
 Projects
