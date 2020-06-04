@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kexin Zhu"
 title_separator          : "-"
 name                     : &name "Kexin Zhu"
-description              : &description "CS Master at Upenn"
+description              : &description "CS Master at Upenn. Incoming software engineer in Google"
 url                      : https://piggy1228.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "piggy1228/piggy1228.github.io"
@@ -80,10 +80,10 @@ analytics:
 author:
   name             : "Kexin Zhu"
   avatar           : "profile.JPG"
-  bio              : "CIS master student at Upenn. Actively looking for a SDE internship in summer 2019"
+  bio              : "CIS master student at Upenn. Incoming software engineer in Google."
   location         : "Philadephia, PA"
-  employer         : #name
-  employerUrl      : #url
+  employer         : "Google"
+  employerUrl      : "https://www.google.com/"
   googlescholar    :
   email            : "zhukexin951228@gmail.com"
   uri              :
